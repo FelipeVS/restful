@@ -14,6 +14,7 @@ app.config.from_object('config')
 # by modules and controllers
 db = SQLAlchemy(app)
 
+
 # Sample HTTP error handling
 @app.errorhandler(404)
 def not_found(error):

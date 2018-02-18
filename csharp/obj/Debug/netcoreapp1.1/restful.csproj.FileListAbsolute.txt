@@ -1,8 +1,0 @@
-/home/felipe/projetos/restful/csharp/bin/Debug/netcoreapp1.1/restful.deps.json
-/home/felipe/projetos/restful/csharp/bin/Debug/netcoreapp1.1/restful.runtimeconfig.json
-/home/felipe/projetos/restful/csharp/bin/Debug/netcoreapp1.1/restful.runtimeconfig.dev.json
-/home/felipe/projetos/restful/csharp/bin/Debug/netcoreapp1.1/restful.dll
-/home/felipe/projetos/restful/csharp/bin/Debug/netcoreapp1.1/restful.pdb
-/home/felipe/projetos/restful/csharp/obj/Debug/netcoreapp1.1/restful.AssemblyInfo.cs
-/home/felipe/projetos/restful/csharp/obj/Debug/netcoreapp1.1/restful.dll
-/home/felipe/projetos/restful/csharp/obj/Debug/netcoreapp1.1/restful.pdb
